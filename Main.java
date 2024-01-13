@@ -7,5 +7,7 @@ public class Main{
         System.out.println(new Date());
         System.out.println("After creating it as a git repository");
         System.out.println("new file added");
+        Student student= new Student();
+        student.sayHello();
  }
 }
